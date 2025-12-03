@@ -1,0 +1,155 @@
+
+SQ1. Qual o tipo de contribuição do artigo?
+[ ] Pesquisa de Avaliação - 021, 052 174 178, 399, 410 451 488 494 556 586 608 610 
+[ ] Proposta de Solução  - 008, 014, 025, 065, 080 089, 100, 109, 376, 412 519 
+[ ] Pesquisa de Validação 075, 315 494 497 582 
+[ ] Artigo Filosófico
+[ ] Artigo de Opinião
+[ ] Relato de Experiência
+[ ] Outro: _____
+
+SQ2
+[ ] Inteligência Artificial  - 008 021 025 052 065 075 080 089 100 109 174 178 376 399 410 412
+451 494
+
+[ ] Engenharia de Software  100
+[ ] Design Digital  - 008 065 080
+[ ] Mídia e Entretenimento  - 008 014 021 025 052 065 080 109 451 488 494 497 519 556 582 586
+608  610 
+[ ] Educação 080 089 100 178
+[ ] Ciências Sociais 075 109
+[ ] Psicologia 021 
+[ ] Outro: ____ 315
+
+SQ3
+[ ] Geração/modificação de vídeos  -  008 021 052 065 080 089 100 109 178 376 399 412 451 494
+608 
+[ ] Criação de efeitos audiovisuais  - 008 014 021
+[ ] Automação de processos de edição 080 109
+[ ] Criação de imagens estáticas - 021 025 174 497
+[ ] Produção musical
+[ ] Storytelling/narrativas 052 065 075 100 109 174 582 
+[ ] Outro: ______ 100 178 315 488  519  556 586 610 
+
+SQ4
+[ ] Modelos de Difusão  - 008 014 021 025 065 089 109 174 315 376 410 412 451 488 494 497 519
+556  582 586 
+[ ] GANs - 008 021 399 410 608 
+[ ] Transformers 021 052 075 080 100 109 178  412
+[ ] Redes recorrentes (RNN, LSTM)
+[ ] Autoencoders  - 008
+[ ] Modelos híbridos 052 065
+[ ] Outro: ______  - 008 080 100 174 178 399 412 494
+
+SQ5
+[ ] Ferramenta original (sem modificações) 052 075 174 178 315
+[ ] Customização parcial - 014 025 065 080 488 497 556 582 586 
+[ ] Desenvolvimento próprio/extensivo 608 610 
+[ ] Combinação de ferramentas existentes  - 008 021 065 080 089 100 109 376 399 410 412 451
+494 519 
+[ ] Outro: ______
+
+SQ6
+[ ] Limitações de resolução - 014
+[ ] Sincronização áudio-vídeo 021 080
+[ ] Coerência temporal  - 008 014 052 065 075 080 174 376 399 410 412 582 608 
+[ ] Latência/tempo de resposta 008 451
+[ ] Escalabilidade 008
+[ ] Estabilidade do sistema 052 080
+[ ] Outro: ______ 021 025 052 089 109 174 178 315 376 399 410 412 488 494 497 519 556 586 610  
+ 
+SQ7
+[ ] Autenticidade/autoria 052 065 075 080 174 451 608 
+[ ] Viés algorítmico 052 075 089 174 586 
+[ ] Impacto na indústria criativa - 008 025 065 075 080 174 556 586 
+[ ] Uso não autorizado de referências
+[ ] Privacidade e proteção de dados 065 080 488 
+[ ] Plágio e direitos autorais 174
+[ ] Outro: ______ - 014 021 025 089 109 174 178 315 376 399 410 412 494 497 519 582 610 
+
+SQ8
+[ ] Sim 008 014 021 025 052 065 075 080 089 109 174 178 315 376 399 410 412 451 488 494 497
+519 556 582 586  608 610 
+[ ] Não 100 
+[ ] Parcialmente
+
+SQ8.1
+[ ] Experimentos controlados 008 014 025 080 174 315 376 399 410 412 488 494 519 556 582 586
+608  610 
+[ ] Estudos de caso 052 065 075 080 174 178 315
+[ ] Surveys/questionários 014 021 089 178 412 497 582 610 
+[ ] Entrevistas 075 080
+[ ] Observação participante
+[ ] Avaliação heurística 451
+[ ] Outro: ______ 109 488 
+
+SQ9
+[ ] Criação de roteiros/narrativas 052 065 075 080 109 178 582 
+[ ] Automação da pós-produção 021 065 080 089 100 109 178 451
+[ ] Geração de efeitos especiais 065  315
+[ ] Criação de imagens/fotografia 174 497
+[ ] Produção musical
+[ ] Animações interativas
+[ ] Outro: ______ 008 014 021 025 052 075 075 080 100 174 376 399 410 412 488 494 519 556 586
+608  610 
+
+SQ10
+[ ] Vídeos completos 065 089 100 109 178 376 399 410 412 451 608 
+[ ] Trailers
+[ ] Animações 494 610 
+[ ] Clipes musicais
+[ ] Imagens estáticas 021 025 109 174 488 497 556 582 
+[ ] Gifs ou memes
+[ ] Outro: ______ 008 014 021 052 065 075 100 109 315 080 519 586 
+
+SQ11
+[ ] Dispositivos móveis (smartphones/tablets) 100
+[ ] Computadores/notebooks 008 014 052 065 075 080 100 109 174 412 451 488 556 582 610 
+[ ] Interfaces em nuvem (SaaS, Colab) 021 052 065 075 080 089 109 174 178 376
+[ ] Ambientes imersivos (VR/AR/MR)
+[ ] Dispositivos especializados (mesas digitalizadoras, câmeras inteligentes)
+[ ] Assistentes de voz (Alexa, Google Nest)
+[ ] Outro: ______ 008 025 315 399 410 494 497 519 586 608 
+
+SQ12
+[ ] Interface gráfica (GUI) 008 021 080 100 109 178
+[ ] Interação textual/prompt 021 025 052 065 075 080 089 100 109 174 178 315 376 399 410 412
+451 488 494 519 586 
+
+[ ] Comandos por voz 494
+[ ] Interação multimodal (ex: texto + imagem) 014 065 080 497 556 608 
+[ ] Interação programática (código) 021 494 582 
+[ ] Gestos/físico/sensorial
+[ ] Outro: ______ 451 610 
+
+SQ13
+[ ] GPT-3
+ [ ] GPT-4 065 075 089 109 412
+ [ ] DALL•E 065 089 109 451
+ [ ] CLIP 080 399 
+ [ ] Stable Diffusion 025 174 412 451 488  519 556 582 586 
+ [ ] MidJourney
+ [ ] Outro: ______ 008 014 021 052 065 100 174 178 315 376 399 410 451 494 497 608 610  
+
+SQ14 
+[ ] Comparação com padrões da indústria 065 488 494 519 582 586 610 
+[ ] Métricas quantitativas (FID, IS, PSNR) 014 376 399 410 412 488 494 519 556 582 608 610 
+[ ] Análises qualitativas com especialistas 008 052 065 075 080 089 109 174 178 376 451
+[ ] Testes A/B com usuários 014 021 109 412 586 
+[ ] Outro: ______ 025 174 178 315 497 
+
+SQ16
+[ ] Variabilidade nos resultados 008 021 025 052 065 075 080 109 174 451
+[ ] Dependência de dados de treinamento 014 025 065 075 080 089 376 399 488 497 582 608 610 
+[ ] Falta de benchmarks padronizados 008 014 052 065 075 080
+[ ] Dificuldades de validação 412
+[ ] Instabilidade do modelo em diferentes ambientes 052
+[ ] Outro: ______ 008 021 109 174 178 315 412 494 519 556 586 
+
+SQ17
+[ ] Sim 021 052 052 065 075 080 109 178
+[ ] Não 008 014 025 174 412 451 494
+[ ] Parcialmente
+[ ] Não informado 089 100 315 376 399 410 488 497 519 556 582 586 608 610 
+
+
